@@ -3,7 +3,7 @@ name: aether-listen
 description: Finds people publicly asking for what the user sells on Hacker News, Reddit, StackExchange and RSS feeds, and ranks the posts by buying intent with a model that learns from the user's approve and reject decisions. Use when the user wants leads from public posts, wants to know who is asking about their product or problem this week, wants the questions their market is asking, or wants reply drafts they approve before posting. Runs two small standard-library Python scripts; no API keys, no login, nothing is ever posted.
 license: MIT
 metadata:
-  version: "1.0.0"
+  version: "1.1.0"
 ---
 
 # Aether Listen
