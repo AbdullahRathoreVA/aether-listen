@@ -44,12 +44,14 @@ python scripts/signals.py top 10
 Settings live in `aether.json` in your project; see
 [references/profile.md](references/profile.md).
 
-## The full version
+## More free skills
 
-Aether Listen finds and ranks demand. **Aether Engine** adds keyword planning,
-publishing of audited SEO pages, an agent-team workflow and a writing check, on
-the Agensi marketplace: <https://www.agensi.io/creators/abdullah-rathore>.
-The standalone engine is at <https://github.com/AbdullahRathoreVA/aether-engine>.
+| Skill | What it does |
+|---|---|
+| [Aether Engine](https://github.com/AbdullahRathoreVA/aether-engine-skill) | Finds people asking for what you sell, plans and publishes audited SEO pages, checks drafts for filler |
+| **Aether Listen** | This one |
+| [Agent Team](https://github.com/AbdullahRathoreVA/agent-team) | Plans a task for a team of AI agents and coordinates their handoffs through Git |
+| [Secret Scan](https://github.com/AbdullahRathoreVA/secret-scan) | Finds leaked keys in a repository's Git history before you make it public |
 
 ## Licence
 
